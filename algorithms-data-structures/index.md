@@ -14,6 +14,6 @@ The enhanced version improves reliability by adding:
 
 - [Original Artifact](ProjectTwo_original_program.cpp)
 - [Enhanced Artifact](CS300_Enhancement.cpp)
-- [Enhancement Narrative](CS499_TBuck_4-2.docx)
+- [Enhancement Narrative](Enhancement_Narrative.pdf)
 
 [Return to Home](../)
