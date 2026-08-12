@@ -8,8 +8,8 @@ I am completing my final term in the Computer Science program. My interests incl
 
 ## Portfolio Sections
 
+- [Professional Self-Assessment](self-assessment/)
 - [Code Review](code-review/)
 - [Software Engineering and Design Enhancement](software-design/)
 - [Algorithms and Data Structures Enhancement](algorithms-data-structures/)
 - [Databases Enhancement](databases/)
-- [Professional Self-Assessment](self-assessment/)
